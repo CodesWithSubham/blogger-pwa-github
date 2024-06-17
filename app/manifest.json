@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "name": "My Blog",
-  "short_name": "My Blog",
+  "name": "Anix7 Photos",
+  "short_name": "Anix7 Photos",
   "description": "My blog description goes here...",
   "dir": "auto",
   "lang": "en-US",
@@ -90,10 +90,10 @@
   ],
   "shortcuts": [
     {
-      "name": "My Shortcut 1",
+      "name": "Boys Photos",
       "short_name": "My Shortcut 1",
       "description": "My Shortcut 1 description goes here...",
-      "url": "/search/label/my-shortcut-1?utm_source=homescreen",
+      "url": "/search/label/boy?utm_source=homescreen",
       "icons": [
         {
           "src": "icons/android-icon-192x192.png",
@@ -102,7 +102,7 @@
       ]
     },
     {
-      "name": "My Shortcut 2",
+      "name": "Girls Photos",
       "short_name": "My Shortcut 2",
       "description": "My Shortcut 2 description goes here...",
       "url": "/search/label/my-shortcut-2?utm_source=homescreen",
